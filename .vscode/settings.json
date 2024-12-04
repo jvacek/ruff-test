@@ -1,5 +1,3 @@
 {
-    "ruff.format.args": [
-        "--no-force-exclude"
-    ]
+    "ruff.nativeServer": "on"
 }
